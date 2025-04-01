@@ -7,4 +7,4 @@
 
 #### Backend
 - [이성민](https://github.com/Etwashoeren)
-- 유은림
+- [유은림](https://github.com/eunrimyu)
