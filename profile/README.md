@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️ Member<br>
 #### Frontend
-- 조수빈
+- [조수빈](https://github.com/orgs/Software-Engineering-1st/people/sooloin)
 - [박유근](https://github.com/ParkYuGeun)
 
 #### Backend
